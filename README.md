@@ -1,5 +1,7 @@
 ## Jets CloudWatch Log Events Example
 
+[![BoltOps Badge](https://img.boltops.com/boltops/badges/boltops-badge.png)](https://www.boltops.com)
+
 This project shows a simple CloudWatch Log Events example with [Jets](http://rubyonjets.com/).
 
 ## Usage
